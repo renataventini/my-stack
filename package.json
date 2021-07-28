@@ -1,0 +1,22 @@
+{
+  "name": "my-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renataventini/my-stack.git"
+  },
+  "author": "Renata",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/renataventini/my-stack/issues"
+  },
+  "homepage": "https://github.com/renataventini/my-stack#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
